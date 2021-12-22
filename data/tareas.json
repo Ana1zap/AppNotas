@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "titulo": "A",
+        "estado": "En progreso"
+    },
+    {
+        "id": 2,
+        "titulo": "B",
+        "estado": "Pendiente"
+    },
+    {
+        "id": 3,
+        "titulo": "C",
+        "estado": "Terminado"
+    },
+    {
+        "id": 4,
+        "titulo": "D",
+        "estado": "Pendiente"
+    },
+    {
+        "id": 5,
+        "titulo": "E",
+        "estado": "En progreso"
+    },
+    {
+        "id": 6,
+        "titulo": "F",
+        "estado": "Terminado"
+    }
+]
